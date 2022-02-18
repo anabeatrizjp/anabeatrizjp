@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-size: 22px;
+}
+h1{
+    color: black;
+    text-align: center;
+
+}
+p {
+    color: rgb(184, 17, 67); 
+    text-align: center;
+}
+em strong {
+    color: red;
+}
